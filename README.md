@@ -1,6 +1,7 @@
 # Adapter-Pattern-with-Swift
 Here is a very basic &amp; simple practice to understand the adapter pattern.
 
+## you can also download the provided playground file.
 
     import Foundation
     
